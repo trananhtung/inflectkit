@@ -1,5 +1,7 @@
 # inflectkit
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 English word inflection: pluralize, singularize, ordinalize, camelize, underscore, humanize, titleize, classify. Zero dependencies, TypeScript.
 
 [![npm](https://img.shields.io/npm/v/inflectkit)](https://www.npmjs.com/package/inflectkit)
@@ -165,6 +167,28 @@ Includes all common English irregulars:
 ## Built-in uncountables
 
 `equipment`, `information`, `rice`, `money`, `species`, `series`, `fish`, `sheep`, `deer`, `aircraft`, `news`, `politics`, `physics`, `mathematics` …
+
+## Contributors ✨
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome — code, docs, bug reports, ideas, reviews! See the [emoji key](https://allcontributors.org/docs/en/emoji-key) for how each contribution is recognized, and open a PR or issue to get involved.
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/trananhtung"><img src="https://avatars.githubusercontent.com/u/30992229?v=4?s=100" width="100px;" alt="Tung Tran"/><br /><sub><b>Tung Tran</b></sub></a><br /><a href="https://github.com/trananhtung/inflectkit/commits?author=trananhtung" title="Code">💻</a> <a href="#maintenance-trananhtung" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 
